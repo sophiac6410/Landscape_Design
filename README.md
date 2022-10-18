@@ -1,6 +1,10 @@
 # Landscape_Design
 
 Created using Unreal Engine 5
+* Used sculpting and painting tools
+* Used Quixel Bridge for surfacing materials and 3D plant assets
+* Created custom material using layer blend of Quixel materials
+* Water plugin for lake
 
 ## Source Code
 Unzip the file below for the source code
